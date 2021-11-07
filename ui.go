@@ -35,7 +35,7 @@ var defaultChromeArgs = []string{
 	"--disable-default-apps",
 	"--disable-dev-shm-usage",
 	"--disable-infobars",
-	"--disable-extensions",
+	// "--disable-extensions",
 	"--disable-features=site-per-process",
 	"--disable-hang-monitor",
 	"--disable-ipc-flooding-protection",
